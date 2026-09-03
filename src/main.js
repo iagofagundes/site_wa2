@@ -1,5 +1,3 @@
-import './style.css'
-
 const whatsapp = 'https://wa.me/5548999517376'
 const logoUrl = 'https://site2.com.br/sites_midias/site_4551_logo_69a11c8ccee69_1772166284.jpg'
 const message = (text) => `${whatsapp}?text=${encodeURIComponent(text)}`
